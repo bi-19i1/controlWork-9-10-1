@@ -1,0 +1,6 @@
+D:\Projects\CW_ZVEREV\V_1\bin\Debug\V_1.exe
+D:\Projects\CW_ZVEREV\V_1\bin\Debug\V_1.pdb
+D:\Projects\CW_ZVEREV\V_1\obj\Debug\V_1.csprojAssemblyReference.cache
+D:\Projects\CW_ZVEREV\V_1\obj\Debug\V_1.csproj.CoreCompileInputs.cache
+D:\Projects\CW_ZVEREV\V_1\obj\Debug\V_1.exe
+D:\Projects\CW_ZVEREV\V_1\obj\Debug\V_1.pdb
