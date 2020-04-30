@@ -1,0 +1,6 @@
+D:\Projects\CW_ZVEREV\V_10\bin\Debug\V_10.exe
+D:\Projects\CW_ZVEREV\V_10\bin\Debug\V_10.pdb
+D:\Projects\CW_ZVEREV\V_10\obj\Debug\V_10.csprojAssemblyReference.cache
+D:\Projects\CW_ZVEREV\V_10\obj\Debug\V_10.csproj.CoreCompileInputs.cache
+D:\Projects\CW_ZVEREV\V_10\obj\Debug\V_10.exe
+D:\Projects\CW_ZVEREV\V_10\obj\Debug\V_10.pdb
